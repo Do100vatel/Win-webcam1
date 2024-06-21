@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\games\\source\\repos\\Win-webcam1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD3B96AD-1898-4D69-9DDB-7E5FEF41A45D}|Win-webcam1\\Win-webcam1.csproj|c:\\users\\games\\source\\repos\\win-webcam1\\win-webcam1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3B96AD-1898-4D69-9DDB-7E5FEF41A45D}|Win-webcam1\\Win-webcam1.csproj|solutionrelative:win-webcam1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD3B96AD-1898-4D69-9DDB-7E5FEF41A45D}|Win-webcam1\\Win-webcam1.csproj|c:\\users\\games\\source\\repos\\win-webcam1\\win-webcam1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CD3B96AD-1898-4D69-9DDB-7E5FEF41A45D}|Win-webcam1\\Win-webcam1.csproj|solutionrelative:win-webcam1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3B96AD-1898-4D69-9DDB-7E5FEF41A45D}|Win-webcam1\\Win-webcam1.csproj|c:\\users\\games\\source\\repos\\win-webcam1\\win-webcam1\\webcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3B96AD-1898-4D69-9DDB-7E5FEF41A45D}|Win-webcam1\\Win-webcam1.csproj|solutionrelative:win-webcam1\\webcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +42,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Webcam.cs",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\Win-webcam1\\Win-webcam1\\Webcam.cs",
+              "RelativeDocumentMoniker": "Win-webcam1\\Webcam.cs",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\Win-webcam1\\Win-webcam1\\Webcam.cs",
+              "RelativeToolTip": "Win-webcam1\\Webcam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T05:28:07.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\Win-webcam1\\Win-webcam1\\Form1.cs",
+              "RelativeDocumentMoniker": "Win-webcam1\\Form1.cs",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\Win-webcam1\\Win-webcam1\\Form1.cs",
+              "RelativeToolTip": "Win-webcam1\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T05:23:24.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\games\\source\\repos\\Win-webcam1\\Win-webcam1\\Form1.cs",
               "RelativeDocumentMoniker": "Win-webcam1\\Form1.cs",
